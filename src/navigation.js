@@ -28,6 +28,15 @@ function Header({ children }) {
             <Link to="/ref" className="btn btn-primary">
               UseRef
             </Link>
+            <Link to="/mem" className="btn btn-primary">
+              UseContext
+            </Link>
+            <Link to="/call" className="btn btn-primary">
+              UseImperative
+            </Link>
+            <Link to="/layo" className="btn btn-primary">
+              UseRef
+            </Link>
           </div>
         </nav>
       </header>
